@@ -1,4 +1,4 @@
-Fragile Manifesto
+Fragile Manifesto Typo
 It’s important to take any framework or concept and make it your own. In combination with my team we’ve come up with the Fragile Methodology and this is our Fragile Manifesto.
 
 Process and tools over individuals and interactions
